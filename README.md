@@ -16,7 +16,7 @@ Contact:
 
 Programming Languages
 
-![image](https://github.com/user-attachments/assets/4b83b3b4-0bc8-47e9-b7e9-a762c579e8c3) ![image](https://github.com/user-attachments/assets/9d7d1c74-c6e2-4cd2-9d70-bf5390054a31) ![image](https://github.com/user-attachments/assets/dc752729-11c3-464b-af89-b4194dec2641) ![image](https://github.com/user-attachments/assets/fc794563-a8d7-4168-8ea7-3de1c11c6de3)
+![image](https://github.com/user-attachments/assets/4b83b3b4-0bc8-47e9-b7e9-a762c579e8c3) ![image](https://github.com/user-attachments/assets/9d7d1c74-c6e2-4cd2-9d70-bf5390054a31) ![image](https://github.com/user-attachments/assets/dc752729-11c3-464b-af89-b4194dec2641) 
 
 
 
