@@ -10,7 +10,7 @@
 
 Contact:
 
-<whatsapp-button phone="+5511977838521" dialcode="44" text="Hi, i'm from your GitHub profile." label="Start Chat"></whatsapp-button>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511977838521)
 
 - ----------------------------------------------------------------------------------------------------------------------------
 
