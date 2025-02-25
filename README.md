@@ -6,7 +6,5 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: Cursing technology on Fatec Barueri
 
-<!---
-MauricioSaleMachine/MauricioSaleMachine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Programming Languages
+Java HTML CSS C# SQL
