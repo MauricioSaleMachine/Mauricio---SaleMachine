@@ -12,6 +12,12 @@ Contact:
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511977838521)
 
+LinkedIn
+
+Olá! Bem-vindo ao meu projeto. Sinta-se à vontade para entrar em contato comigo pelo LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauricio-cerqueira-482962311/)
+
 - ----------------------------------------------------------------------------------------------------------------------------
 
 Programming Languages
