@@ -7,4 +7,6 @@
 - ⚡ Fun fact: Cursing technology on Fatec Barueri
 
 Programming Languages
-Java HTML CSS C# SQL
+
+![image](https://github.com/user-attachments/assets/4b83b3b4-0bc8-47e9-b7e9-a762c579e8c3)
+
